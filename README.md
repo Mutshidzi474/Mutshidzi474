@@ -32,13 +32,10 @@ I am passionate about Problem-Solving, data, AI, and teamwork
 
 ---
 ✅ PROJECTS COMPLETED
-> 🛡️ Campus Safety Platform – 2025 --> 
+> 🛡️ Campus Safety Platform – 2025 --> https://github.com/Mutshidzi474/BCWildWatch-App-ChatBot-
 - Built an MVP using Microsoft Power Apps
 - Designed a system for reporting animal sightings on campus
 - Enabled real-time, intelligent reporting to improve student safety
-
-
-> 🤖 AI Chatbot – 2025
 - Built an AI-powered chatbot using Microsoft Power Apps and Power Automate
 - Integrated Google Gemini API via HTTP requests
 - Processed and handled AI responses using JSON expressions
